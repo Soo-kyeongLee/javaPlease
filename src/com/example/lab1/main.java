@@ -10,7 +10,7 @@ public class main {
 		System.out.println("hello world!\n");
 		System.out.print("name:");
 		String name=s.next();
-		System.out.println("["+name+"]\n");
+		System.out.println("["+name+"]kk\n");
 	}
 
 }
